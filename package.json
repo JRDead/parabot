@@ -1,0 +1,14 @@
+{
+  "name": "parabot",
+  "version": "1.0.0",
+  "description": "Un bot de Discord para Paradise Chile Network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paradise Chile Network",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
